@@ -1,1 +1,1 @@
-# Walmary
+# Walmart
